@@ -7,6 +7,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
+        // just for test reason
         TeamMember [] teamMembers = {new TeamMember( "John"),new TeamMember("James"),new TeamMember("Alan"),new TeamMember("Jack")};
         List<Block> blockerList =  new ArrayList<>(Arrays.asList(new Stone(), new Water(),new Log()));
 
