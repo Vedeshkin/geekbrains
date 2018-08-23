@@ -5,6 +5,7 @@ import java.util.Random;
 
 /**
  * Created by vedeshkin on 23.08.2018.
+ *
  */
 public class Course {
    private List<Block> blockerList;
